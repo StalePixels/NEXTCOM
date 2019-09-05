@@ -1,0 +1,8 @@
+src/nextcom.c
+src/dispatch.c
+src/hardware/tilemap.asm
+src/hardware/tilemap.c
+src/hardware/init.c
+src/hardware/uart.c
+src/hardware/ula.c
+src/modules/terminal.c
